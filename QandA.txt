@@ -9,3 +9,4 @@ yes
 Is it an electronic?
 can be
 Is it wearable?
+no
