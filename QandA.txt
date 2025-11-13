@@ -4,3 +4,4 @@ Is it in this room?
 no
 Is it something I would see every day?
 yes
+Is it small enough to hold in my hands?
