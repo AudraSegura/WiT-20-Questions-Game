@@ -8,3 +8,4 @@ Is it small enough to hold in my hands?
 yes
 Is it an electronic?
 can be
+Is it wearable?
