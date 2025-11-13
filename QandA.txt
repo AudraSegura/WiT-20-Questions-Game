@@ -1,3 +1,4 @@
 is it alive?
 no
 Is it in this room?
+no
