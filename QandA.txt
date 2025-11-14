@@ -19,3 +19,4 @@ no
 Is it something used in relation to food?
 no
 Is it in most bathrooms?
+yes
