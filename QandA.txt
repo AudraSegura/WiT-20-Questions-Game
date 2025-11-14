@@ -16,3 +16,4 @@ Is it in most households?
 yes
 Is it in most bedrooms?
 no
+Is it something used in relation to food?
